@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MemberAuth": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb+srv://dhawal:dhawal@cluster0.3dx3p.mongodb.net/member-auth",
+    "database": "member-auth",
+    "password": "dhawal",
+    "name": "MemberAuth",
+    "user": "dhawal",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
